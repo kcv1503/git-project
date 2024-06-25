@@ -1,2 +1,2 @@
 # Website1
-website using Ract js
+website using React.js
